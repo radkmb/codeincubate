@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+</head>
+
+<body>
+  <script>
+    var price = 100;
+    function including_tax(price) {
+      var priceCalc = price * 1.08;
+      return priceCalc;
+    }
+    
+    document.write('税込み価格は' + including_tax(price) + '円です');
+    document.write('（税率8%換算）');
+  </script>
+</body>
+
+</html>

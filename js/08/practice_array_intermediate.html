@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+</head>
+
+<body>
+  <script>
+    var data = [59, 39, 100, 2, 15, 40, 84, 97];
+    for (var i = 0; i < data.length; i++) {
+      document.write(data[i] + '<br>');
+    }
+
+    var counter = 0;
+    var j = 0;
+    while (j < data.length) {
+      if (data[j] < 40) {
+        counter += 1;
+      }
+      j++;
+    }
+    document.write('40未満の値は、' + counter + 'つある。');
+
+  </script>
+</body>
+
+</html>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+</head>
+
+<body>
+  <script>
+    var rand1 = Math.floor(Math.random() * 3);
+    var rand2 = Math.floor(Math.random() * 3);
+    var rand3 = Math.floor(Math.random() * 3);
+    document.write('<p>rand1: ' + rand1 + '</p>');
+    document.write('<p>rand2: ' + rand2 + '</p>');
+    document.write('<p>rand3: ' + rand3 + '</p>');
+
+    if (rand1 == rand2 && rand2 == rand3 && rand3 == rand1) {
+      document.write('<p>3つは同じ値です。</p>');
+    } else if (rand1 >= rand2 && rand1 >= rand3) {
+      if (rand1 > rand2 && rand1 > rand3) {
+        document.write('<p>一番値が大きいのはrand1です。');
+      } else if (rand1 == rand2) {
+        document.write('<p>一番値が大きいのはrand1とrand2です。');
+      } else if (rand1 == rand3) {
+        document.write('<p>一番値が大きいのはrand1とrand3です。');
+      }
+    } else if (rand2 >= rand1 && rand2 >= rand3) {
+      if (rand2 > rand1 && rand2 > rand3) {
+        document.write('<p>一番値が大きいのはrand2です。');
+      } else if (rand2 == rand1) {
+        document.write('<p>一番値が大きいのはrand1とrand2です。');
+      } else if (rand2 == rand3) {
+        document.write('<p>一番値が大きいのはrand2とrand3です。');
+      }
+    } else if (rand3 >= rand1 && rand3 >= rand2) {
+      if (rand3 > rand1 && rand3 > rand2) {
+        document.write('<p>一番値が大きいのはrand3です。');
+      } else if (rand3 == rand1) {
+        document.write('<p>一番値が大きいのはrand1とrand3です。');
+      } else if (rand3 == rand2) {
+        document.write('<p>一番値が大きいのはrand2とrand3です。');
+      }
+    }
+  </script>
+</body>
+
+</html>

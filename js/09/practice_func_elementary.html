@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+</head>
+
+<body>
+  <script>
+    var data = [59, 39, 100, 2, 15, 40, 84, 97];
+    var ave;
+    ave = calc_ave(data);
+    document.write(ave);
+
+    function calc_ave(arr) {
+      var sum = 0,
+        ave;
+      for (var i = 0, l = arr.length; i < l; i++) {
+        sum += arr[i];
+      }
+      ave = sum / l;
+      return ave;
+    }
+  </script>
+</body>
+
+</html>

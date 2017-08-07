@@ -1,0 +1,582 @@
+[24-Jul-2017 19:38:26 Asia/Tokyo] PHP Notice:  Undefined variable: DB_USER in /home/ubuntu/workspace/php/16/manage.php on line 50
+[24-Jul-2017 19:38:26 Asia/Tokyo] PHP Stack trace:
+[24-Jul-2017 19:38:26 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/16/manage.php:0
+[24-Jul-2017 19:38:26 Asia/Tokyo] PHP Notice:  Undefined variable: DB_PASS in /home/ubuntu/workspace/php/16/manage.php on line 50
+[24-Jul-2017 19:38:26 Asia/Tokyo] PHP Stack trace:
+[24-Jul-2017 19:38:26 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/16/manage.php:0
+[25-Jul-2017 19:19:21 Asia/Tokyo] PHP Notice:  Undefined variable: my_name in /home/ubuntu/workspace/php/09/challenge_super_global.php on line 28
+[25-Jul-2017 19:19:21 Asia/Tokyo] PHP Stack trace:
+[25-Jul-2017 19:19:21 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/09/challenge_super_global.php:0
+[25-Jul-2017 19:19:21 Asia/Tokyo] PHP Notice:  Undefined variable: gender in /home/ubuntu/workspace/php/09/challenge_super_global.php on line 29
+[25-Jul-2017 19:19:21 Asia/Tokyo] PHP Stack trace:
+[25-Jul-2017 19:19:21 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/09/challenge_super_global.php:0
+[25-Jul-2017 19:19:21 Asia/Tokyo] PHP Notice:  Undefined variable: mail in /home/ubuntu/workspace/php/09/challenge_super_global.php on line 30
+[25-Jul-2017 19:19:21 Asia/Tokyo] PHP Stack trace:
+[25-Jul-2017 19:19:21 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/09/challenge_super_global.php:0
+[25-Jul-2017 19:20:47 Asia/Tokyo] PHP Notice:  Undefined variable: my_name in /home/ubuntu/workspace/php/09/challenge_super_global.php on line 34
+[25-Jul-2017 19:20:47 Asia/Tokyo] PHP Stack trace:
+[25-Jul-2017 19:20:47 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/09/challenge_super_global.php:0
+[25-Jul-2017 19:20:47 Asia/Tokyo] PHP Notice:  Undefined variable: gender in /home/ubuntu/workspace/php/09/challenge_super_global.php on line 35
+[25-Jul-2017 19:20:47 Asia/Tokyo] PHP Stack trace:
+[25-Jul-2017 19:20:47 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/09/challenge_super_global.php:0
+[25-Jul-2017 19:20:47 Asia/Tokyo] PHP Notice:  Undefined variable: mail in /home/ubuntu/workspace/php/09/challenge_super_global.php on line 36
+[25-Jul-2017 19:20:47 Asia/Tokyo] PHP Stack trace:
+[25-Jul-2017 19:20:47 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/09/challenge_super_global.php:0
+[25-Jul-2017 19:20:51 Asia/Tokyo] PHP Notice:  Undefined variable: my_name in /home/ubuntu/workspace/php/09/challenge_super_global.php on line 34
+[25-Jul-2017 19:20:51 Asia/Tokyo] PHP Stack trace:
+[25-Jul-2017 19:20:51 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/09/challenge_super_global.php:0
+[25-Jul-2017 19:20:51 Asia/Tokyo] PHP Notice:  Undefined variable: gender in /home/ubuntu/workspace/php/09/challenge_super_global.php on line 35
+[25-Jul-2017 19:20:51 Asia/Tokyo] PHP Stack trace:
+[25-Jul-2017 19:20:51 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/09/challenge_super_global.php:0
+[25-Jul-2017 19:20:51 Asia/Tokyo] PHP Notice:  Undefined variable: mail in /home/ubuntu/workspace/php/09/challenge_super_global.php on line 36
+[25-Jul-2017 19:20:51 Asia/Tokyo] PHP Stack trace:
+[25-Jul-2017 19:20:51 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/09/challenge_super_global.php:0
+[30-Jul-2017 10:17:13 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '[', expecting '{' in /home/ubuntu/workspace/php/21/result.php on line 80
+[30-Jul-2017 10:24:12 Asia/Tokyo] PHP Notice:  Undefined index: drinkBuy in /home/ubuntu/workspace/php/21/result.php on line 19
+[30-Jul-2017 10:24:12 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 10:24:12 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/result.php:0
+[30-Jul-2017 10:24:12 Asia/Tokyo] PHP Notice:  Undefined index: drinkBuy in /home/ubuntu/workspace/php/21/result.php on line 21
+[30-Jul-2017 10:24:12 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 10:24:12 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/result.php:0
+[30-Jul-2017 15:12:41 Asia/Tokyo] PHP Notice:  Undefined index: drinkBuy in /home/ubuntu/workspace/php/21/result.php on line 19
+[30-Jul-2017 15:12:41 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:12:41 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/result.php:0
+[30-Jul-2017 15:12:41 Asia/Tokyo] PHP Notice:  Undefined index: drinkBuy in /home/ubuntu/workspace/php/21/result.php on line 21
+[30-Jul-2017 15:12:41 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:12:41 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/result.php:0
+[30-Jul-2017 15:13:55 Asia/Tokyo] PHP Notice:  Undefined index: drinkBuy in /home/ubuntu/workspace/php/21/result.php on line 20
+[30-Jul-2017 15:13:55 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:13:55 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/result.php:0
+[30-Jul-2017 15:13:55 Asia/Tokyo] PHP Notice:  Undefined index: drinkBuy in /home/ubuntu/workspace/php/21/result.php on line 22
+[30-Jul-2017 15:13:55 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:13:55 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/result.php:0
+[30-Jul-2017 15:19:03 Asia/Tokyo] PHP Notice:  Undefined index: drinkBuy in /home/ubuntu/workspace/php/21/result.php on line 20
+[30-Jul-2017 15:19:03 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:19:03 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/result.php:0
+[30-Jul-2017 15:19:03 Asia/Tokyo] PHP Notice:  Undefined index: drinkBuy in /home/ubuntu/workspace/php/21/result.php on line 22
+[30-Jul-2017 15:19:03 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:19:03 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/result.php:0
+[30-Jul-2017 15:22:55 Asia/Tokyo] PHP Notice:  Undefined index: drinkStock in /home/ubuntu/workspace/php/21/tool.php on line 19
+[30-Jul-2017 15:22:55 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:22:55 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 15:22:55 Asia/Tokyo] PHP Notice:  Undefined index: statusIdUpdate in /home/ubuntu/workspace/php/21/tool.php on line 20
+[30-Jul-2017 15:22:55 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:22:55 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 15:22:55 Asia/Tokyo] PHP Notice:  Undefined index: statusValUpdate in /home/ubuntu/workspace/php/21/tool.php on line 21
+[30-Jul-2017 15:22:55 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:22:55 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 15:25:02 Asia/Tokyo] PHP Notice:  Undefined index: drinkStock in /home/ubuntu/workspace/php/21/tool.php on line 23
+[30-Jul-2017 15:25:02 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:25:02 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 15:25:02 Asia/Tokyo] PHP Notice:  Undefined index: statusIdUpdate in /home/ubuntu/workspace/php/21/tool.php on line 24
+[30-Jul-2017 15:25:02 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:25:02 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 15:25:02 Asia/Tokyo] PHP Notice:  Undefined index: statusValUpdate in /home/ubuntu/workspace/php/21/tool.php on line 25
+[30-Jul-2017 15:25:02 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:25:02 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 15:25:52 Asia/Tokyo] PHP Notice:  Undefined index: drinkStock in /home/ubuntu/workspace/php/21/tool.php on line 23
+[30-Jul-2017 15:25:52 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:25:52 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 15:25:52 Asia/Tokyo] PHP Notice:  Undefined index: statusIdUpdate in /home/ubuntu/workspace/php/21/tool.php on line 24
+[30-Jul-2017 15:25:52 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:25:52 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 15:25:52 Asia/Tokyo] PHP Notice:  Undefined index: statusValUpdate in /home/ubuntu/workspace/php/21/tool.php on line 25
+[30-Jul-2017 15:25:52 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:25:52 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 15:33:11 Asia/Tokyo] PHP Notice:  Undefined index: drinkStock in /home/ubuntu/workspace/php/21/tool.php on line 23
+[30-Jul-2017 15:33:11 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:33:11 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 15:33:11 Asia/Tokyo] PHP Notice:  Undefined index: statusIdUpdate in /home/ubuntu/workspace/php/21/tool.php on line 24
+[30-Jul-2017 15:33:11 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:33:11 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 15:33:11 Asia/Tokyo] PHP Notice:  Undefined index: statusValUpdate in /home/ubuntu/workspace/php/21/tool.php on line 25
+[30-Jul-2017 15:33:11 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:33:11 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 15:33:24 Asia/Tokyo] PHP Notice:  Undefined index: drinkInfo in /home/ubuntu/workspace/php/21/tool.php on line 22
+[30-Jul-2017 15:33:24 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:33:24 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 15:33:24 Asia/Tokyo] PHP Notice:  Undefined index: statusIdUpdate in /home/ubuntu/workspace/php/21/tool.php on line 24
+[30-Jul-2017 15:33:24 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:33:24 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 15:33:24 Asia/Tokyo] PHP Notice:  Undefined index: statusValUpdate in /home/ubuntu/workspace/php/21/tool.php on line 25
+[30-Jul-2017 15:33:24 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:33:24 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 15:36:21 Asia/Tokyo] PHP Notice:  Undefined index: drinkInfo in /home/ubuntu/workspace/php/21/tool.php on line 21
+[30-Jul-2017 15:36:21 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:36:21 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 15:36:21 Asia/Tokyo] PHP Notice:  Undefined index: statusIdUpdate in /home/ubuntu/workspace/php/21/tool.php on line 23
+[30-Jul-2017 15:36:21 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:36:21 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 15:36:21 Asia/Tokyo] PHP Notice:  Undefined index: statusValUpdate in /home/ubuntu/workspace/php/21/tool.php on line 24
+[30-Jul-2017 15:36:21 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:36:21 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 15:40:18 Asia/Tokyo] PHP Notice:  Undefined index: drinkInfo in /home/ubuntu/workspace/php/21/tool.php on line 21
+[30-Jul-2017 15:40:18 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:40:18 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 15:40:18 Asia/Tokyo] PHP Notice:  Undefined index: drinkStock in /home/ubuntu/workspace/php/21/tool.php on line 22
+[30-Jul-2017 15:40:18 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:40:18 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 15:40:34 Asia/Tokyo] PHP Notice:  Undefined index: drinkInfo in /home/ubuntu/workspace/php/21/tool.php on line 21
+[30-Jul-2017 15:40:34 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:40:34 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 15:40:34 Asia/Tokyo] PHP Notice:  Undefined index: drinkStock in /home/ubuntu/workspace/php/21/tool.php on line 22
+[30-Jul-2017 15:40:34 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:40:34 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 15:40:50 Asia/Tokyo] PHP Notice:  Undefined index: drinkStock in /home/ubuntu/workspace/php/21/tool.php on line 22
+[30-Jul-2017 15:40:50 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:40:50 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 15:40:50 Asia/Tokyo] PHP Notice:  Undefined index: statusIdUpdate in /home/ubuntu/workspace/php/21/tool.php on line 23
+[30-Jul-2017 15:40:50 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:40:50 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 15:40:50 Asia/Tokyo] PHP Notice:  Undefined index: statusValUpdate in /home/ubuntu/workspace/php/21/tool.php on line 24
+[30-Jul-2017 15:40:50 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:40:50 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 15:44:14 Asia/Tokyo] PHP Notice:  Undefined index: drinkInfo in /home/ubuntu/workspace/php/21/tool.php on line 21
+[30-Jul-2017 15:44:14 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:44:14 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 15:44:14 Asia/Tokyo] PHP Notice:  Undefined index: statusIdUpdate in /home/ubuntu/workspace/php/21/tool.php on line 23
+[30-Jul-2017 15:44:14 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:44:14 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 15:44:14 Asia/Tokyo] PHP Notice:  Undefined index: statusValUpdate in /home/ubuntu/workspace/php/21/tool.php on line 24
+[30-Jul-2017 15:44:14 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:44:14 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 15:48:32 Asia/Tokyo] PHP Notice:  Undefined index: drinkInfo in /home/ubuntu/workspace/php/21/tool.php on line 21
+[30-Jul-2017 15:48:32 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:48:32 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 15:48:32 Asia/Tokyo] PHP Notice:  Undefined index: statusIdUpdate in /home/ubuntu/workspace/php/21/tool.php on line 23
+[30-Jul-2017 15:48:32 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:48:32 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 15:48:32 Asia/Tokyo] PHP Notice:  Undefined index: statusValUpdate in /home/ubuntu/workspace/php/21/tool.php on line 24
+[30-Jul-2017 15:48:32 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:48:32 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 15:50:39 Asia/Tokyo] PHP Notice:  Undefined index: drinkInfo in /home/ubuntu/workspace/php/21/tool.php on line 21
+[30-Jul-2017 15:50:39 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:50:39 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 15:50:39 Asia/Tokyo] PHP Notice:  Undefined index: statusIdUpdate in /home/ubuntu/workspace/php/21/tool.php on line 23
+[30-Jul-2017 15:50:39 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:50:39 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 15:50:39 Asia/Tokyo] PHP Notice:  Undefined index: statusValUpdate in /home/ubuntu/workspace/php/21/tool.php on line 24
+[30-Jul-2017 15:50:39 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:50:39 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 15:56:43 Asia/Tokyo] PHP Notice:  Undefined index: drinkInfo in /home/ubuntu/workspace/php/21/tool.php on line 21
+[30-Jul-2017 15:56:43 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:56:43 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 15:56:43 Asia/Tokyo] PHP Notice:  Undefined index: statusId in /home/ubuntu/workspace/php/21/tool.php on line 23
+[30-Jul-2017 15:56:43 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:56:43 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 15:56:43 Asia/Tokyo] PHP Notice:  Undefined index: statusVal in /home/ubuntu/workspace/php/21/tool.php on line 24
+[30-Jul-2017 15:56:43 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:56:43 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 15:58:15 Asia/Tokyo] PHP Notice:  Undefined index: drinkInfo in /home/ubuntu/workspace/php/21/tool.php on line 22
+[30-Jul-2017 15:58:15 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:58:15 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 15:58:15 Asia/Tokyo] PHP Notice:  Undefined index: statusId in /home/ubuntu/workspace/php/21/tool.php on line 24
+[30-Jul-2017 15:58:15 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:58:15 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 15:58:15 Asia/Tokyo] PHP Notice:  Undefined index: statusVal in /home/ubuntu/workspace/php/21/tool.php on line 25
+[30-Jul-2017 15:58:15 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 15:58:15 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 16:12:28 Asia/Tokyo] PHP Notice:  Undefined index: drinkInfo in /home/ubuntu/workspace/php/21/tool.php on line 22
+[30-Jul-2017 16:12:28 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 16:12:28 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 16:12:28 Asia/Tokyo] PHP Notice:  Undefined index: drinkStock in /home/ubuntu/workspace/php/21/tool.php on line 23
+[30-Jul-2017 16:12:28 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 16:12:28 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 16:18:18 Asia/Tokyo] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/ubuntu/workspace/php/21/tool.php on line 84
+[30-Jul-2017 16:18:18 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 16:18:18 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 16:18:18 Asia/Tokyo] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/ubuntu/workspace/php/21/tool.php on line 84
+[30-Jul-2017 16:18:18 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 16:18:18 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 16:19:47 Asia/Tokyo] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/ubuntu/workspace/php/21/tool.php on line 84
+[30-Jul-2017 16:19:47 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 16:19:47 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 16:19:47 Asia/Tokyo] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/ubuntu/workspace/php/21/tool.php on line 84
+[30-Jul-2017 16:19:47 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 16:19:47 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 16:19:52 Asia/Tokyo] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/ubuntu/workspace/php/21/tool.php on line 84
+[30-Jul-2017 16:19:52 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 16:19:52 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 16:19:52 Asia/Tokyo] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/ubuntu/workspace/php/21/tool.php on line 84
+[30-Jul-2017 16:19:52 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 16:19:52 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 16:20:38 Asia/Tokyo] PHP Notice:  Undefined index: drinkInfo in /home/ubuntu/workspace/php/21/tool.php on line 20
+[30-Jul-2017 16:20:38 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 16:20:38 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 16:20:38 Asia/Tokyo] PHP Notice:  Undefined index: statusIdUpdate in /home/ubuntu/workspace/php/21/tool.php on line 22
+[30-Jul-2017 16:20:38 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 16:20:38 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 16:20:38 Asia/Tokyo] PHP Notice:  Undefined index: statusValUpdate in /home/ubuntu/workspace/php/21/tool.php on line 23
+[30-Jul-2017 16:20:38 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 16:20:38 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 16:21:06 Asia/Tokyo] PHP Notice:  Undefined index: drinkInfo in /home/ubuntu/workspace/php/21/tool.php on line 20
+[30-Jul-2017 16:21:06 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 16:21:06 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 16:21:06 Asia/Tokyo] PHP Notice:  Undefined index: drinkStock in /home/ubuntu/workspace/php/21/tool.php on line 21
+[30-Jul-2017 16:21:06 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 16:21:06 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 16:23:47 Asia/Tokyo] PHP Notice:  Undefined index: drinkInfo in /home/ubuntu/workspace/php/21/tool.php on line 20
+[30-Jul-2017 16:23:47 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 16:23:47 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 16:23:47 Asia/Tokyo] PHP Notice:  Undefined index: drinkStock in /home/ubuntu/workspace/php/21/tool.php on line 21
+[30-Jul-2017 16:23:47 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 16:23:47 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 16:28:03 Asia/Tokyo] PHP Notice:  Undefined index: drinkInfo in /home/ubuntu/workspace/php/21/tool.php on line 20
+[30-Jul-2017 16:28:03 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 16:28:03 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 16:28:03 Asia/Tokyo] PHP Notice:  Undefined index: statusIdUpdate in /home/ubuntu/workspace/php/21/tool.php on line 22
+[30-Jul-2017 16:28:03 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 16:28:03 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 16:28:03 Asia/Tokyo] PHP Notice:  Undefined index: statusValUpdate in /home/ubuntu/workspace/php/21/tool.php on line 23
+[30-Jul-2017 16:28:03 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 16:28:03 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 16:32:14 Asia/Tokyo] PHP Notice:  Undefined index: drinkInfo in /home/ubuntu/workspace/php/21/tool.php on line 20
+[30-Jul-2017 16:32:14 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 16:32:14 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 16:32:14 Asia/Tokyo] PHP Notice:  Undefined index: statusIdUpdate in /home/ubuntu/workspace/php/21/tool.php on line 22
+[30-Jul-2017 16:32:14 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 16:32:14 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 16:32:14 Asia/Tokyo] PHP Notice:  Undefined index: statusValUpdate in /home/ubuntu/workspace/php/21/tool.php on line 23
+[30-Jul-2017 16:32:14 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 16:32:14 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 16:32:23 Asia/Tokyo] PHP Notice:  Undefined index: drinkInfo in /home/ubuntu/workspace/php/21/tool.php on line 20
+[30-Jul-2017 16:32:23 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 16:32:23 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 16:32:23 Asia/Tokyo] PHP Notice:  Undefined index: statusIdUpdate in /home/ubuntu/workspace/php/21/tool.php on line 22
+[30-Jul-2017 16:32:23 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 16:32:23 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 16:32:23 Asia/Tokyo] PHP Notice:  Undefined index: statusValUpdate in /home/ubuntu/workspace/php/21/tool.php on line 23
+[30-Jul-2017 16:32:23 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 16:32:23 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 16:35:22 Asia/Tokyo] PHP Notice:  Undefined index: drinkStock in /home/ubuntu/workspace/php/21/tool.php on line 21
+[30-Jul-2017 16:35:22 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 16:35:22 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 16:35:22 Asia/Tokyo] PHP Notice:  Undefined index: statusIdUpdate in /home/ubuntu/workspace/php/21/tool.php on line 22
+[30-Jul-2017 16:35:22 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 16:35:22 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 16:35:22 Asia/Tokyo] PHP Notice:  Undefined index: statusValUpdate in /home/ubuntu/workspace/php/21/tool.php on line 23
+[30-Jul-2017 16:35:22 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 16:35:22 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 16:56:26 Asia/Tokyo] PHP Notice:  Undefined index: drinkBuy in /home/ubuntu/workspace/php/21/result.php on line 21
+[30-Jul-2017 16:56:26 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 16:56:26 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/result.php:0
+[30-Jul-2017 16:56:26 Asia/Tokyo] PHP Notice:  Undefined index: drinkBuy in /home/ubuntu/workspace/php/21/result.php on line 23
+[30-Jul-2017 16:56:26 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 16:56:26 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/result.php:0
+[30-Jul-2017 16:57:36 Asia/Tokyo] PHP Notice:  Undefined index: drinkBuy in /home/ubuntu/workspace/php/21/result.php on line 22
+[30-Jul-2017 16:57:36 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 16:57:36 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/result.php:0
+[30-Jul-2017 16:57:36 Asia/Tokyo] PHP Notice:  Undefined index: drinkBuy in /home/ubuntu/workspace/php/21/result.php on line 24
+[30-Jul-2017 16:57:36 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 16:57:36 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/result.php:0
+[30-Jul-2017 16:57:45 Asia/Tokyo] PHP Notice:  Undefined index: drinkBuy in /home/ubuntu/workspace/php/21/result.php on line 22
+[30-Jul-2017 16:57:45 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 16:57:45 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/result.php:0
+[30-Jul-2017 16:57:45 Asia/Tokyo] PHP Notice:  Undefined index: drinkBuy in /home/ubuntu/workspace/php/21/result.php on line 24
+[30-Jul-2017 16:57:45 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 16:57:45 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/result.php:0
+[30-Jul-2017 17:02:25 Asia/Tokyo] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/ubuntu/workspace/php/21/result.php on line 157
+[30-Jul-2017 17:02:49 Asia/Tokyo] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/php/21/result.php on line 174
+[30-Jul-2017 17:03:15 Asia/Tokyo] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/php/21/result.php on line 173
+[30-Jul-2017 17:06:10 Asia/Tokyo] PHP Notice:  Undefined index: drinkBuy in /home/ubuntu/workspace/php/21/result.php on line 22
+[30-Jul-2017 17:06:10 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:06:10 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/result.php:0
+[30-Jul-2017 17:06:10 Asia/Tokyo] PHP Notice:  Undefined index: drinkBuy in /home/ubuntu/workspace/php/21/result.php on line 24
+[30-Jul-2017 17:06:10 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:06:10 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/result.php:0
+[30-Jul-2017 17:19:11 Asia/Tokyo] PHP Notice:  Undefined index: drinkBuy in /home/ubuntu/workspace/php/21/result.php on line 22
+[30-Jul-2017 17:19:11 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:19:11 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/result.php:0
+[30-Jul-2017 17:19:11 Asia/Tokyo] PHP Notice:  Undefined index: drinkBuy in /home/ubuntu/workspace/php/21/result.php on line 24
+[30-Jul-2017 17:19:11 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:19:11 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/result.php:0
+[30-Jul-2017 17:22:25 Asia/Tokyo] PHP Notice:  Undefined index: drinkBuy in /home/ubuntu/workspace/php/21/result.php on line 24
+[30-Jul-2017 17:22:25 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:22:25 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/result.php:0
+[30-Jul-2017 17:22:25 Asia/Tokyo] PHP Notice:  Undefined index: drinkBuy in /home/ubuntu/workspace/php/21/result.php on line 26
+[30-Jul-2017 17:22:25 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:22:25 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/result.php:0
+[30-Jul-2017 17:22:25 Asia/Tokyo] PHP Notice:  Use of undefined constant DSN - assumed 'DSN' in /home/ubuntu/workspace/php/21/result.php on line 46
+[30-Jul-2017 17:22:25 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:22:25 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/result.php:0
+[30-Jul-2017 17:22:25 Asia/Tokyo] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/ubuntu/workspace/php/21/result.php on line 46
+[30-Jul-2017 17:22:25 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:22:25 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/result.php:0
+[30-Jul-2017 17:22:25 Asia/Tokyo] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/ubuntu/workspace/php/21/result.php on line 46
+[30-Jul-2017 17:22:25 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:22:25 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/result.php:0
+[30-Jul-2017 17:23:49 Asia/Tokyo] PHP Notice:  Undefined index: drinkBuy in /home/ubuntu/workspace/php/21/result.php on line 24
+[30-Jul-2017 17:23:49 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:23:49 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/result.php:0
+[30-Jul-2017 17:23:49 Asia/Tokyo] PHP Notice:  Undefined index: drinkBuy in /home/ubuntu/workspace/php/21/result.php on line 26
+[30-Jul-2017 17:23:49 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:23:49 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/result.php:0
+[30-Jul-2017 17:26:24 Asia/Tokyo] PHP Notice:  Undefined index: drinkBuy in /home/ubuntu/workspace/php/21/result.php on line 24
+[30-Jul-2017 17:26:24 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:26:24 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/result.php:0
+[30-Jul-2017 17:26:24 Asia/Tokyo] PHP Notice:  Undefined index: drinkBuy in /home/ubuntu/workspace/php/21/result.php on line 26
+[30-Jul-2017 17:26:24 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:26:24 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/result.php:0
+[30-Jul-2017 17:27:43 Asia/Tokyo] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/ubuntu/workspace/php/21/result.php on line 156
+[30-Jul-2017 17:28:33 Asia/Tokyo] PHP Notice:  Undefined index: drinkBuy in /home/ubuntu/workspace/php/21/result.php on line 24
+[30-Jul-2017 17:28:33 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:28:33 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/result.php:0
+[30-Jul-2017 17:28:33 Asia/Tokyo] PHP Notice:  Undefined index: drinkBuy in /home/ubuntu/workspace/php/21/result.php on line 26
+[30-Jul-2017 17:28:33 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:28:33 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/result.php:0
+[30-Jul-2017 17:32:58 Asia/Tokyo] PHP Notice:  Undefined index: drinkBuy in /home/ubuntu/workspace/php/21/result.php on line 24
+[30-Jul-2017 17:32:58 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:32:58 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/result.php:0
+[30-Jul-2017 17:32:58 Asia/Tokyo] PHP Notice:  Undefined index: drinkBuy in /home/ubuntu/workspace/php/21/result.php on line 26
+[30-Jul-2017 17:32:58 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:32:58 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/result.php:0
+[30-Jul-2017 17:33:07 Asia/Tokyo] PHP Notice:  Undefined index: drinkBuy in /home/ubuntu/workspace/php/21/result.php on line 24
+[30-Jul-2017 17:33:07 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:33:07 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/result.php:0
+[30-Jul-2017 17:33:07 Asia/Tokyo] PHP Notice:  Undefined index: drinkBuy in /home/ubuntu/workspace/php/21/result.php on line 26
+[30-Jul-2017 17:33:07 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:33:07 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/result.php:0
+[30-Jul-2017 17:41:46 Asia/Tokyo] PHP Notice:  Undefined index: drinkStock in /home/ubuntu/workspace/php/21/tool.php on line 21
+[30-Jul-2017 17:41:46 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:41:46 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 17:41:46 Asia/Tokyo] PHP Notice:  Undefined index: statusIdUpdate in /home/ubuntu/workspace/php/21/tool.php on line 22
+[30-Jul-2017 17:41:46 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:41:46 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 17:41:46 Asia/Tokyo] PHP Notice:  Undefined index: statusValUpdate in /home/ubuntu/workspace/php/21/tool.php on line 23
+[30-Jul-2017 17:41:46 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:41:46 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 17:47:10 Asia/Tokyo] PHP Notice:  Undefined index: drinkStock in /home/ubuntu/workspace/php/21/tool.php on line 21
+[30-Jul-2017 17:47:10 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:47:10 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 17:47:10 Asia/Tokyo] PHP Notice:  Undefined index: statusIdUpdate in /home/ubuntu/workspace/php/21/tool.php on line 22
+[30-Jul-2017 17:47:10 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:47:10 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 17:47:10 Asia/Tokyo] PHP Notice:  Undefined index: statusValUpdate in /home/ubuntu/workspace/php/21/tool.php on line 23
+[30-Jul-2017 17:47:10 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:47:10 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 17:47:23 Asia/Tokyo] PHP Notice:  Undefined index: drinkInfo in /home/ubuntu/workspace/php/21/tool.php on line 20
+[30-Jul-2017 17:47:23 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:47:23 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 17:47:23 Asia/Tokyo] PHP Notice:  Undefined index: statusIdUpdate in /home/ubuntu/workspace/php/21/tool.php on line 22
+[30-Jul-2017 17:47:23 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:47:23 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 17:47:23 Asia/Tokyo] PHP Notice:  Undefined index: statusValUpdate in /home/ubuntu/workspace/php/21/tool.php on line 23
+[30-Jul-2017 17:47:23 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:47:23 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 17:50:57 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/php/21/tool.php on line 204
+[30-Jul-2017 17:51:18 Asia/Tokyo] PHP Notice:  Undefined index: drinkInfo in /home/ubuntu/workspace/php/21/tool.php on line 20
+[30-Jul-2017 17:51:18 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:51:18 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 17:51:18 Asia/Tokyo] PHP Notice:  Undefined index: statusIdUpdate in /home/ubuntu/workspace/php/21/tool.php on line 22
+[30-Jul-2017 17:51:18 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:51:18 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 17:51:18 Asia/Tokyo] PHP Notice:  Undefined index: statusValUpdate in /home/ubuntu/workspace/php/21/tool.php on line 23
+[30-Jul-2017 17:51:18 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:51:18 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 17:51:43 Asia/Tokyo] PHP Notice:  Undefined index: drinkInfo in /home/ubuntu/workspace/php/21/tool.php on line 20
+[30-Jul-2017 17:51:43 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:51:43 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 17:51:43 Asia/Tokyo] PHP Notice:  Undefined index: statusIdUpdate in /home/ubuntu/workspace/php/21/tool.php on line 22
+[30-Jul-2017 17:51:43 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:51:43 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 17:51:43 Asia/Tokyo] PHP Notice:  Undefined index: statusValUpdate in /home/ubuntu/workspace/php/21/tool.php on line 23
+[30-Jul-2017 17:51:43 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:51:43 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 17:51:47 Asia/Tokyo] PHP Notice:  Undefined index: drinkInfo in /home/ubuntu/workspace/php/21/tool.php on line 20
+[30-Jul-2017 17:51:47 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:51:47 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 17:51:47 Asia/Tokyo] PHP Notice:  Undefined index: statusIdUpdate in /home/ubuntu/workspace/php/21/tool.php on line 22
+[30-Jul-2017 17:51:47 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:51:47 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 17:51:47 Asia/Tokyo] PHP Notice:  Undefined index: statusValUpdate in /home/ubuntu/workspace/php/21/tool.php on line 23
+[30-Jul-2017 17:51:47 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:51:47 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 17:51:52 Asia/Tokyo] PHP Notice:  Undefined index: drinkInfo in /home/ubuntu/workspace/php/21/tool.php on line 20
+[30-Jul-2017 17:51:52 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:51:52 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 17:51:52 Asia/Tokyo] PHP Notice:  Undefined index: statusIdUpdate in /home/ubuntu/workspace/php/21/tool.php on line 22
+[30-Jul-2017 17:51:52 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:51:52 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 17:51:52 Asia/Tokyo] PHP Notice:  Undefined index: statusValUpdate in /home/ubuntu/workspace/php/21/tool.php on line 23
+[30-Jul-2017 17:51:52 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:51:52 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 17:51:58 Asia/Tokyo] PHP Notice:  Undefined index: drinkInfo in /home/ubuntu/workspace/php/21/tool.php on line 20
+[30-Jul-2017 17:51:58 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:51:58 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 17:51:58 Asia/Tokyo] PHP Notice:  Undefined index: statusIdUpdate in /home/ubuntu/workspace/php/21/tool.php on line 22
+[30-Jul-2017 17:51:58 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:51:58 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 17:51:58 Asia/Tokyo] PHP Notice:  Undefined index: statusValUpdate in /home/ubuntu/workspace/php/21/tool.php on line 23
+[30-Jul-2017 17:51:58 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:51:58 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 17:52:38 Asia/Tokyo] PHP Notice:  Undefined index: drinkInfo in /home/ubuntu/workspace/php/21/tool.php on line 20
+[30-Jul-2017 17:52:38 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:52:38 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 17:52:38 Asia/Tokyo] PHP Notice:  Undefined index: statusIdUpdate in /home/ubuntu/workspace/php/21/tool.php on line 22
+[30-Jul-2017 17:52:38 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:52:38 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[30-Jul-2017 17:52:38 Asia/Tokyo] PHP Notice:  Undefined index: statusValUpdate in /home/ubuntu/workspace/php/21/tool.php on line 23
+[30-Jul-2017 17:52:38 Asia/Tokyo] PHP Stack trace:
+[30-Jul-2017 17:52:38 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 03:32:56 Asia/Tokyo] PHP Notice:  Undefined index: drinkInfo in /home/ubuntu/workspace/php/21/tool.php on line 20
+[01-Aug-2017 03:32:56 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 03:32:56 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 03:32:56 Asia/Tokyo] PHP Notice:  Undefined index: drinkStock in /home/ubuntu/workspace/php/21/tool.php on line 21
+[01-Aug-2017 03:32:56 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 03:32:56 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 03:33:22 Asia/Tokyo] PHP Notice:  Undefined index: drinkInfo in /home/ubuntu/workspace/php/21/tool.php on line 20
+[01-Aug-2017 03:33:22 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 03:33:22 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 03:33:22 Asia/Tokyo] PHP Notice:  Undefined index: drinkStock in /home/ubuntu/workspace/php/21/tool.php on line 21
+[01-Aug-2017 03:33:22 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 03:33:22 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 03:33:36 Asia/Tokyo] PHP Notice:  Undefined index: drinkInfo in /home/ubuntu/workspace/php/21/tool.php on line 20
+[01-Aug-2017 03:33:36 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 03:33:36 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 03:33:36 Asia/Tokyo] PHP Notice:  Undefined index: drinkStock in /home/ubuntu/workspace/php/21/tool.php on line 21
+[01-Aug-2017 03:33:36 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 03:33:36 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 03:35:10 Asia/Tokyo] PHP Notice:  Undefined index: drinkStock in /home/ubuntu/workspace/php/21/tool.php on line 21
+[01-Aug-2017 03:35:10 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 03:35:10 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 03:35:10 Asia/Tokyo] PHP Notice:  Undefined index: statusIdUpdate in /home/ubuntu/workspace/php/21/tool.php on line 22
+[01-Aug-2017 03:35:10 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 03:35:10 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 03:35:10 Asia/Tokyo] PHP Notice:  Undefined index: statusValUpdate in /home/ubuntu/workspace/php/21/tool.php on line 23
+[01-Aug-2017 03:35:10 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 03:35:10 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 03:37:31 Asia/Tokyo] PHP Notice:  Undefined index: drinkInfo in /home/ubuntu/workspace/php/21/tool.php on line 20
+[01-Aug-2017 03:37:31 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 03:37:31 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 03:37:31 Asia/Tokyo] PHP Notice:  Undefined index: statusIdUpdate in /home/ubuntu/workspace/php/21/tool.php on line 22
+[01-Aug-2017 03:37:31 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 03:37:31 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 03:37:31 Asia/Tokyo] PHP Notice:  Undefined index: statusValUpdate in /home/ubuntu/workspace/php/21/tool.php on line 23
+[01-Aug-2017 03:37:31 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 03:37:31 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 03:39:34 Asia/Tokyo] PHP Notice:  Undefined index: drinkInfo in /home/ubuntu/workspace/php/21/tool.php on line 20
+[01-Aug-2017 03:39:34 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 03:39:34 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 03:39:34 Asia/Tokyo] PHP Notice:  Undefined index: statusIdUpdate in /home/ubuntu/workspace/php/21/tool.php on line 22
+[01-Aug-2017 03:39:34 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 03:39:34 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 03:39:34 Asia/Tokyo] PHP Notice:  Undefined index: statusValUpdate in /home/ubuntu/workspace/php/21/tool.php on line 23
+[01-Aug-2017 03:39:34 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 03:39:34 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 03:40:53 Asia/Tokyo] PHP Notice:  Undefined index: drinkBuy in /home/ubuntu/workspace/php/21/result.php on line 21
+[01-Aug-2017 03:40:53 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 03:40:53 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/result.php:0
+[01-Aug-2017 03:40:53 Asia/Tokyo] PHP Notice:  Undefined index: drinkBuy in /home/ubuntu/workspace/php/21/result.php on line 23
+[01-Aug-2017 03:40:53 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 03:40:53 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/result.php:0
+[01-Aug-2017 03:41:31 Asia/Tokyo] PHP Notice:  Undefined index: drinkBuy in /home/ubuntu/workspace/php/21/result.php on line 21
+[01-Aug-2017 03:41:31 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 03:41:31 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/result.php:0
+[01-Aug-2017 03:41:31 Asia/Tokyo] PHP Notice:  Undefined index: drinkBuy in /home/ubuntu/workspace/php/21/result.php on line 23
+[01-Aug-2017 03:41:31 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 03:41:31 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/result.php:0
+[01-Aug-2017 03:43:02 Asia/Tokyo] PHP Notice:  Undefined index: drinkInfo in /home/ubuntu/workspace/php/21/tool.php on line 20
+[01-Aug-2017 03:43:02 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 03:43:02 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 03:43:02 Asia/Tokyo] PHP Notice:  Undefined index: statusIdUpdate in /home/ubuntu/workspace/php/21/tool.php on line 22
+[01-Aug-2017 03:43:02 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 03:43:02 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 03:43:02 Asia/Tokyo] PHP Notice:  Undefined index: statusValUpdate in /home/ubuntu/workspace/php/21/tool.php on line 23
+[01-Aug-2017 03:43:02 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 03:43:02 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 03:43:46 Asia/Tokyo] PHP Notice:  Undefined index: drinkBuy in /home/ubuntu/workspace/php/21/result.php on line 21
+[01-Aug-2017 03:43:46 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 03:43:46 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/result.php:0
+[01-Aug-2017 03:43:46 Asia/Tokyo] PHP Notice:  Undefined index: drinkBuy in /home/ubuntu/workspace/php/21/result.php on line 23
+[01-Aug-2017 03:43:46 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 03:43:46 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/result.php:0
+[01-Aug-2017 03:43:59 Asia/Tokyo] PHP Notice:  Undefined index: drinkInfo in /home/ubuntu/workspace/php/21/tool.php on line 20
+[01-Aug-2017 03:43:59 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 03:43:59 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 03:43:59 Asia/Tokyo] PHP Notice:  Undefined index: statusIdUpdate in /home/ubuntu/workspace/php/21/tool.php on line 22
+[01-Aug-2017 03:43:59 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 03:43:59 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 03:43:59 Asia/Tokyo] PHP Notice:  Undefined index: statusValUpdate in /home/ubuntu/workspace/php/21/tool.php on line 23
+[01-Aug-2017 03:43:59 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 03:43:59 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 03:44:19 Asia/Tokyo] PHP Notice:  Undefined index: drinkInfo in /home/ubuntu/workspace/php/21/tool.php on line 20
+[01-Aug-2017 03:44:19 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 03:44:19 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 03:44:19 Asia/Tokyo] PHP Notice:  Undefined index: statusIdUpdate in /home/ubuntu/workspace/php/21/tool.php on line 22
+[01-Aug-2017 03:44:19 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 03:44:19 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 03:44:19 Asia/Tokyo] PHP Notice:  Undefined index: statusValUpdate in /home/ubuntu/workspace/php/21/tool.php on line 23
+[01-Aug-2017 03:44:19 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 03:44:19 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 03:44:39 Asia/Tokyo] PHP Notice:  Undefined index: drinkInfo in /home/ubuntu/workspace/php/21/tool.php on line 20
+[01-Aug-2017 03:44:39 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 03:44:39 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 03:44:39 Asia/Tokyo] PHP Notice:  Undefined index: statusIdUpdate in /home/ubuntu/workspace/php/21/tool.php on line 22
+[01-Aug-2017 03:44:39 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 03:44:39 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 03:44:39 Asia/Tokyo] PHP Notice:  Undefined index: statusValUpdate in /home/ubuntu/workspace/php/21/tool.php on line 23
+[01-Aug-2017 03:44:39 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 03:44:39 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 08:44:46 Asia/Tokyo] PHP Notice:  Undefined index: drinkInfo in /home/ubuntu/workspace/php/21/tool.php on line 20
+[01-Aug-2017 08:44:46 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 08:44:46 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 08:44:46 Asia/Tokyo] PHP Notice:  Undefined index: statusIdUpdate in /home/ubuntu/workspace/php/21/tool.php on line 22
+[01-Aug-2017 08:44:46 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 08:44:46 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 08:44:46 Asia/Tokyo] PHP Notice:  Undefined index: statusValUpdate in /home/ubuntu/workspace/php/21/tool.php on line 23
+[01-Aug-2017 08:44:46 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 08:44:46 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 16:30:36 Asia/Tokyo] PHP Notice:  Undefined index: drinkStock in /home/ubuntu/workspace/php/21/tool.php on line 21
+[01-Aug-2017 16:30:36 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 16:30:36 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 16:30:36 Asia/Tokyo] PHP Notice:  Undefined index: statusIdUpdate in /home/ubuntu/workspace/php/21/tool.php on line 22
+[01-Aug-2017 16:30:36 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 16:30:36 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 16:30:36 Asia/Tokyo] PHP Notice:  Undefined index: statusValUpdate in /home/ubuntu/workspace/php/21/tool.php on line 23
+[01-Aug-2017 16:30:36 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 16:30:36 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 16:32:01 Asia/Tokyo] PHP Notice:  Undefined index: drinkStock in /home/ubuntu/workspace/php/21/tool.php on line 21
+[01-Aug-2017 16:32:01 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 16:32:01 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 16:32:01 Asia/Tokyo] PHP Notice:  Undefined index: statusIdUpdate in /home/ubuntu/workspace/php/21/tool.php on line 22
+[01-Aug-2017 16:32:01 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 16:32:01 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 16:32:01 Asia/Tokyo] PHP Notice:  Undefined index: statusValUpdate in /home/ubuntu/workspace/php/21/tool.php on line 23
+[01-Aug-2017 16:32:01 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 16:32:01 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 16:40:51 Asia/Tokyo] PHP Notice:  Undefined index: drinkStock in /home/ubuntu/workspace/php/21/tool.php on line 21
+[01-Aug-2017 16:40:51 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 16:40:51 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 16:40:51 Asia/Tokyo] PHP Notice:  Undefined index: statusIdUpdate in /home/ubuntu/workspace/php/21/tool.php on line 22
+[01-Aug-2017 16:40:51 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 16:40:51 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 16:40:51 Asia/Tokyo] PHP Notice:  Undefined index: statusValUpdate in /home/ubuntu/workspace/php/21/tool.php on line 23
+[01-Aug-2017 16:40:51 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 16:40:51 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 16:42:49 Asia/Tokyo] PHP Notice:  Undefined index: drinkStock in /home/ubuntu/workspace/php/21/tool.php on line 21
+[01-Aug-2017 16:42:49 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 16:42:49 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 16:42:49 Asia/Tokyo] PHP Notice:  Undefined index: statusIdUpdate in /home/ubuntu/workspace/php/21/tool.php on line 22
+[01-Aug-2017 16:42:49 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 16:42:49 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 16:42:49 Asia/Tokyo] PHP Notice:  Undefined index: statusValUpdate in /home/ubuntu/workspace/php/21/tool.php on line 23
+[01-Aug-2017 16:42:49 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 16:42:49 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 17:15:52 Asia/Tokyo] PHP Notice:  Undefined index: drinkInfo in /home/ubuntu/workspace/php/21/tool.php on line 20
+[01-Aug-2017 17:15:52 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 17:15:52 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 17:15:52 Asia/Tokyo] PHP Notice:  Undefined index: statusIdUpdate in /home/ubuntu/workspace/php/21/tool.php on line 22
+[01-Aug-2017 17:15:52 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 17:15:52 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 17:15:52 Asia/Tokyo] PHP Notice:  Undefined index: statusValUpdate in /home/ubuntu/workspace/php/21/tool.php on line 23
+[01-Aug-2017 17:15:52 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 17:15:52 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 17:15:59 Asia/Tokyo] PHP Notice:  Undefined index: drinkInfo in /home/ubuntu/workspace/php/21/tool.php on line 20
+[01-Aug-2017 17:15:59 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 17:15:59 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 17:15:59 Asia/Tokyo] PHP Notice:  Undefined index: statusIdUpdate in /home/ubuntu/workspace/php/21/tool.php on line 22
+[01-Aug-2017 17:15:59 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 17:15:59 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
+[01-Aug-2017 17:15:59 Asia/Tokyo] PHP Notice:  Undefined index: statusValUpdate in /home/ubuntu/workspace/php/21/tool.php on line 23
+[01-Aug-2017 17:15:59 Asia/Tokyo] PHP Stack trace:
+[01-Aug-2017 17:15:59 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/php/21/tool.php:0
